@@ -13,6 +13,15 @@ This repository is a compilation of optical design files that are used in the ap
 
 Distributed under the MIT License which allows urestricted use of the software. See [LICENSE.md](LICENSE.md) for more information.
 
+<!-- LICENSE -->
+## Attributions
+
+This repository would not have been possible without the contributions of others and contains content that was generously provided by:
+ - Bill Claff - https://photonstophotos.net
+ - Mikhail Polyanskiy - https://refractiveindex.info
+ - Michael Hayford - https://github.com/mjhoptics
+ - Katsumoto (Kats) Ikeda - https://www.pencilofrays.com
+
 <!-- CONTACT -->
 ## Contact
 
