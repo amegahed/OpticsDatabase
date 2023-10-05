@@ -4,9 +4,9 @@
   </div>
 </p>
 
-# OpticExplorer Optics Repository
+# OpticExplorer Optics Database
 
-This repository is a compilation of optical design files that are used in the application OpticExplorer (www.opticexplorer.com).
+This database is a compilation of optical design files that are used in the application OpticExplorer (www.opticexplorer.com).
 
 <!-- ATTRIBUTIONS -->
 ## Contents
